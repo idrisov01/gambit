@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Gambit</string>
     <string name="toolbar_text">GAMBIT</string>
-    <string name="button_text">В корзину</string>
+    <string name="button_text">Добавить в корзину</string>
 </resources>
